@@ -1,0 +1,2 @@
+# Mundo Libro solo usa la biblioteca estándar de Python 3.10 o superior.
+# No hay dependencias externas que instalar.
