@@ -1,0 +1,10 @@
+SI NO FUNCIONA
+
+1. Ejecuta Abrir_Mundo_Libro_Web.bat.
+2. No cierres la ventana de consola.
+3. Copia el mensaje de error completo (o toma una captura).
+4. La dirección usual es http://127.0.0.1:8000; si el puerto ya se está usando, puede escoger 8001-8010.
+5. Requisito: Python 3.10 o superior.
+
+La app compatible con el repositorio debe colocarse al mismo nivel que main.py, corte1_archivos/ y corte2_arboles/. Necesita permanecer junto a la carpeta web/.
+No elimines archivos de datos para intentar solucionar el error.
