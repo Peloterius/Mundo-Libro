@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Entorno virtual
+.venv/
+venv/
+
+# Datos generados al ejecutar (se recrean en la primera ejecución)
+datos/
+
+# Editores y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
